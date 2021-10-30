@@ -2,7 +2,7 @@
 - 👀 I’m interested in C++ ~~and men~~, and I am a boy
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on （？）
-- 📫 How to reach me （I Don't Know）
+- 📫 How to reach me （I Don't Know. Maybe you can find me on QQ with 1492398820）
 
 <!---
 CE-Automaton/CE-Automaton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
