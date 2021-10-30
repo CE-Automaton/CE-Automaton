@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CE-Automaton
-- 👀 I’m interested in C++ ~~and men~~
+- 👀 I’m interested in C++ ~~and men~~,and I am a boy
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on （？）
 - 📫 How to reach me （I Don't Know）
