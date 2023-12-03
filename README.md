@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 (What!? But I never use HTML🤨.)
 
-![CE-Automaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=CE-Automaton&show_icons=true&theme=dracula)
+<!---![CE-Automaton's GitHub stats](https://github-readme-stats.vercel.app/api?username=CE-Automaton&show_icons=true&theme=dracula)--->
