@@ -9,4 +9,4 @@ CE-Automaton/CE-Automaton is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![CE-Automaton's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CE-Automaton&show_icons=true&count_private=true&theme=gotham)
+![CE-Automaton's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CE-Automaton&layout=compact&hide_border=true&langs_count=10)
