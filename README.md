@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 (What!? But I never use HTML🤨.)
 
-![QaQ GitHub stats](https://github-readme-stats.vercel.app/api?username=rainlycoris&show_icons=true&theme=dracula)
+<!---![QaQ GitHub stats](https://github-readme-stats.vercel.app/api?username=rainlycoris&show_icons=true&theme=dracula)--->
